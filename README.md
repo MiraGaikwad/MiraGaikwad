@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiraGaikwad
 - 👀 I’m interested in Deep Learning, Machine Learning
 - 🌱 I’m currently learning Masters in Artificial Intelligence
-- 💞️ I’m looking to collaborate on Deep Learning prejects
+- 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me on email - mira.gaikwad@gmail.com
 
 <!---
